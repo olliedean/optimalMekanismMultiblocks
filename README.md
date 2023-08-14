@@ -1,4 +1,15 @@
 # optimalMekanismMultiblocks
+최적의(?) 메카니즘 멀티블록
+
+### 사용법
+'Building Gadgets' 모드가 필요합니다.
+
+1. 빌딩 가젯 모드의 템플릿 매니저(Template Manager)와 Copy-Paste Gadget을 제작합니다.
+2. 스키매틱 파일의 텍스트를 복사합니다.
+3. 템플릿 매니저의 두 번째 슬롯에 가젯을 넣고, 'Paste' 버튼을 누릅니다.
+4. 이제 가젯의 'Paste'모드를 활용해 복사한 멀티블록을 월드에 설치할 수 있습니다.
+
+# optimalMekanismMultiblocks
 Schematics of some Mekanism multiblocks. Use with Mining Gadgets mod.
 
 ### How to use
