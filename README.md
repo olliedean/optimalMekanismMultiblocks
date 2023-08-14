@@ -11,10 +11,10 @@
 4. 이제 가젯의 'Paste'모드를 활용해 복사한 멀티블록을 월드에 설치할 수 있습니다.
 
 # optimalMekanismMultiblocks
-Schematics of some Mekanism multiblocks. Use with Mining Gadgets mod.
+Schematics of some Mekanism multiblocks. Use with Copy-Paste Gadget from Building Gadgets mod.
 
 ### How to use
-You need 'Mining Gadgets' mod installed to use these schematics.
+You need 'Building Gadgets' mod installed to use these schematics.
 
 1. Make a Template Manager and Copy-Paste Gadget. 
 2. Copy the text of schematics file to your clipboard.
