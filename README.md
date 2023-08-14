@@ -4,6 +4,7 @@
 
 ### 사용법
 'Building Gadgets' 모드가 필요합니다.
+https://www.curseforge.com/minecraft/mc-mods/building-gadgets
 
 1. 빌딩 가젯 모드의 템플릿 매니저(Template Manager)와 Copy-Paste Gadget을 제작합니다.
 2. 스키매틱 파일의 텍스트를 복사합니다.
@@ -15,6 +16,7 @@ Schematics of some Mekanism multiblocks. Use with Copy-Paste Gadget from Buildin
 
 ### How to use
 You need 'Building Gadgets' mod installed to use these schematics.
+https://www.curseforge.com/minecraft/mc-mods/building-gadgets
 
 1. Make a Template Manager and Copy-Paste Gadget. 
 2. Copy the text of schematics file to your clipboard.
