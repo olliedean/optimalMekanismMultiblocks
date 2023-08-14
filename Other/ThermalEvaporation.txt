@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Copy 6",
+    "author": "new_3",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 3,
+      "max_y": 18,
+      "max_z": 3
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "minecraft:emerald_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 115,
+          "item": {
+            "id": "mekanism:structural_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 97,
+          "item": {
+            "id": "mekanism:thermal_evaporation_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "mekanism:thermal_evaporation_controller"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "mekanism:thermal_evaporation_valve"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/62VzW7TQBSFb+5xQury03aD2FVseAAkFt2yRyyBTTRNhtaqfyrbKT+PytMwk/mgsEGqRFX18/VJx8kZ53NtdmTVLsyhNrNlbctpDnNcW/UudNGed00ft2P4PF/ELo6h3W0u22F7Y7J6imMT2uZ7HNN/Wl1WyQd/L/Gyizehb6buYr6OYxfaTbwLt8MY5mbo//Nqd6G9iw9Y7cXv1aZ53G/nffqEm6s2TNMDFnn1z7e0Hfp5HNo2jrXV78fhNo5zE6e1rcJ2btK7rdKV01qrz2Hb9FdWfYnTbP+4/JHpdpiqdOqH/f5ZHH7znwV0KGie6bY4UOZODtOpw/kFdJFDq8ihV+TQluTQl+TQVuTQV+TQHpFDf0QObU0OfU0OUy8lh35EDq0mh16TQzsmh35MDu0xOfTH5NCekEN/Qg7tKTn0p+TQnpFDf0YO7YQc+gk5tFP2HzrUr/NnnIf5FPfLgvtlwf1SNtvLTSGYL32YYXpJmWHa/zLDtN9lhml/ywzTfpYZpv0rM0z7VWaY9qfMMO1HmWHqv8ww9V1mmPotM0x9lvmEL88pnx/aGTPMFdGX05fTlx/W80LBvEX05fTl9OX05fTl9OX05fTl9OX05fTl9OX05fTl9OX05fTl9OX05fTl9OX05fTl9OX05fTl9OX05fTl9OX05fQl+hJ9ib6Ej4SPSg4F86XwkfCR8JHwkfCR8JHwkfCR8FHZnCU5TH0LHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JHwkfCR8JH4n7Q/hI+EjcL8JHwkfliXOWP/rqOoZdflSuLod9v5tkVRe+fsp5Ofxwf/gxHZ7lw6b/WJyYDz/dH+bX5n2q+vyYXr0dbr+dv8kP3v18PYy27OOXzeu0T388adcHN55f7pt2l57GV2F3FefpYrfvum+bPx7IPwGxj0fMNwkAAA\u003d\u003d"
+}
