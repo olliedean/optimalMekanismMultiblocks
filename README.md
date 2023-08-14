@@ -1,5 +1,6 @@
 # optimalMekanismMultiblocks
-최적의(?) 메카니즘 멀티블록
+최적의(?) 메카니즘 멀티블록을 힘들게 손으로 한땀한땀 짓지 말고
+편하게 붙여넣기 해보자
 
 ### 사용법
 'Building Gadgets' 모드가 필요합니다.
