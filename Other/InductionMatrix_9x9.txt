@@ -1,0 +1,50 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Induction9x9",
+    "author": "new_3",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 8,
+      "max_y": 10,
+      "max_z": 8
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "minecraft:emerald_block"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 92,
+          "item": {
+            "id": "mekanism:induction_casing"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "mekanism:induction_port"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 292,
+          "item": {
+            "id": "mekanism:structural_glass"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/53XzY7bVBiA4ZPv94zFvmLHPbDq3AEbxBK6iTwTd2o1cUa2A4U1F85x/EKLhJCgGuU9Vjpf/cTuzHFXykOxU7/2XSnFuuLL2q9DLfZ9fxnKm8s4Dc9z/359HC7D3J9Px6fz9flj0dItwzz25/G3YW7fWbp9yrb4+4ivL8PHfhqXy+M4nW7P63idjs/9Mk4v/2vIss5tyK2dyvHl3C/Lfxjy5h/O5PU6r13pfpivr8O8jsNSS/TtrZ+H4u/78zKUf/kHHoq+Xhcr5fB7+evP4f61vRyoUKVGnQZNWmmRrVIOVKhSo06DpjCHNsE+hwpVatRp0FTm0GLMoUKVGnUaNI05tDhzqFClRp0GTWcOLcEcKlSpUadBM5hDSzKHClVq1GnQTObQUplDhSo16jRoVubQdl/de6BClRp1GjRppduI+/lQoUqNOg2ah/2bK8fbiO2l0nY/7ce03Rf7MW3Xdz+m7Trtx7R93vsxbZ/bflz5z/PAeVOhSo06DZoPnDfdPjr8gl/wC37BL/gFv+AX/IJf8At+wS/4Bb/gF/yCX/ALfsEv+AW/4Bf8gl/wC37BL/gFv+BX/Ipf8St+xa/4Fb/iV/yKX/ErfsWv+BW/4lf8il/xK37Fr/gVv+JX/Ipf8St+xa/4Fb/iN/yG3/AbfsNv+A2/4Tf8ht/uP0x1b1XeN96nzW/4Db/hN/yG3/AbfsNv+A2/4Tf8ht/wG37Db/gdv+N3/I7f8Tt+x+/4Hb/jd66/c/0dv+N3/I7f8Tt+x+/4Hb/jd/yO3/E7fsfv+B2/43f8jj/wB/7AH/gDf+AP/IE/8Af+wB/4A3/gD/yBP/AH/sAf+AN/4A/8gT/wB/7AH/gDf+AP/IE/8Sf+xJ/4E3/iT/yJP/En/sSf+BN/4k/8iT/xJ/7En/gTf+JP/Ik/8Sf+xJ/4E3/iT/yJv7IPq+zDKvuwyj6ssg+r7MMq+7CKv7IPq/fzoUKVGnUaNIU5dPuRcZ9DhSo16jRoKnNo+7z3OVSoUqNOg6Yxh7brtM+hQpUadRo0nTm0Xd99DhWq1KjToBnMoe2q7XOoUKVGnQbNZA5tr/scKlSpUadBszKHtvuwsg+r7MMq+7DKPqyyD6vswyr7sMp9eN/R1W77ig9Dfxrmtni63qbT0n55XPpP77b39+WPn5c/tWW3LcdpW5Z9+e7zcvu7998b0/Zg89V3fz7PvP30dnuAua0frnPxafjl+G1TfPH8Uu87w2+ebuP51B7BXvrTy7Auj6fb5fLr8YvHnD8AiRUxZRgOAAA\u003d"
+}
