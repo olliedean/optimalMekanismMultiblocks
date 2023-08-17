@@ -1,0 +1,92 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Turbine195",
+    "author": "new_3",
+    "bounag-0-1h82plt61ag-1-1h82plt61ding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 6,
+      "max_y": 16,
+      "max_z": 6
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 4,
+          "item": {
+            "id": "mekanismgenerators:electromagnetic_coil"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:lime_stained_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 24,
+          "item": {
+            "id": "mekanism:pressure_disperser"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "mekanismgenerators:rotational_complex"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 61,
+          "item": {
+            "id": "mekanismgenerators:saturating_condenser"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 178,
+          "item": {
+            "id": "mekanism:structural_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 129,
+          "item": {
+            "id": "mekanismgenerators:turbine_casing"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 8,
+          "item": {
+            "id": "mekanismgenerators:turbine_rotor"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "mekanismgenerators:turbine_valve"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 125,
+          "item": {
+            "id": "mekanismgenerators:turbine_vent"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/62YT4/bVBRHn++fN0k6nemGBQKJskCsEWLBfAjEgkXbTeQmbmqROCPbKS2fnmu/E9qMqkojmEWO38v8nmOf+5LcrFJaJtvWY71KKa1WyYexHptFst/qQ5O+PzR/1l07HHZN1/T1eOyHu/HUv267Zr2ph7bbJU2roenbet/+3fRpWqSsNx1cLvb1ebG7YexPm1in3q93+3oYHrHI8y+8onf1/l3ziLW++9JaTTc+YqlvDxHa9PWb8W7fHpp1PBkT20df3jf/3qP7vhmGU9+st+1w3/SRf8QyP37myoZ6uuNjOFtvjt226f77ks2+2Yz98VDvumZsN7Fuu/+fXPbHGK7S6vf+GFc/ts2wSNdv9qd2u94fd7tmm7w53I8f0iPO98NnzhfniXty7KIUN8fD/b55/4UFl0nvj4OlJF+lT/4qKFChQYf5IlClCkpV0srYoLNwvjhB5KBAhQadF5IvXlDkoECFBp0Xni8uIHJQoEKDzoXmiwuOHBSo0KBzY/LFDYocFKjQoHMj8/mGXpGDAhUa9CtyMC3IQYEKDfqCHIw6KDkoUKFBX5KDaXqPDRkVFKjQoK/IwfSEHBSo0KA/IQfTNTkoUKFBvyYH01NyUKBCg/6UHEw35KBAhQb9hhxMtwUVFKjQoMM8M4rtWTr/sWMSO6lQoUGH+fyvVXnIMIJlDKdLmccwFipjGAuWMYyFyxhGXZYxjHorYxh1VBaBAhUa9CW5ZXlRUUczM4z6KCd/wjwM/2UeyjXPw/BcnocCFRr0p+RgeC45KFChQb8hd8Nb5C03FQpUaNBv8XR7+dZaQYEKDTrM5xKoCjOMR8Gv4FfwK/gV/Ap+Bb+CX8Gv4FfwK/gV/Ap+Bb+CX8Gv4FfwK/gV/Mq0uK7KOMPwLHgWPAueBc+CX8Gv4FfwK/gV/Ap+Bb+CX8Gv4FfwK/gV/Ap+Bb+CX8Gv4FfwK/gV/D74hCoUqNCgw3ze2tXExfS5qXhWPJd5YR5OL2WeV+ZhnKDMG/NwUjXPO/NwuhXzfGYeTsrm+Svm4TQ1PyyYh9P3CepDqQ+dJxkb9CW5JbdkNT3M9THTVmU+w6gTpU6UOlHqRKkTpU6UOlHqRKkTpU6UOlHqRKkTpU6UOlHqRKkTpU6UOlHqRKkTpU6UOlHqRKkTpU6UOnnwjaRQoEKDDvP5rb8qzDCCRl0YdWHUg7G6UQdGHRj+Df+Gd8O74dvwbXg2PBueDc/G+4Dh2fBseDY8G54Nv4Zfw6/h1/Br+DX8Gn4Nv4Zfw6/h1/Br+DX8Gn4Nv4Zfw6/h1/Br+DX8Gn4Nv4Zfw6/h98E3x0KBCg06zOeP9Kowwwg6fh2/jl/Hr+PXOZvj1/Hr+HX8On4dv45fx6/j1/Hr+HX8On4dv45fx6vj1fHqeHW8Ol4dr45Xx6vj1fHqeHW8Ol4dr45Xx6vj1fHqeHW8Ol4dr45Xx6vj1fHqeH3wzb5QoEKDDvO5VarKV7UKSlU+2pWxQa/IwfiXkoMCFRp0IQenS51zUKBCg67kYFxAyUGBCg26kYNxwSUHBSo06E4OxmPJQYEKDXomB6OOSw4KVGjQr8jBqPeSgwIVGvQFORj7ouSgQIUGfUkOxr7I9EmZPinTJ2X6pEyfVHIw9k+mT8r0SZk+KdMnZfqkkoOxvzJ9UqZPyvRJmT4p0yeVHIz9l+mTMn1Spk/K9EmZPqnkYOy/TJ+U6ZMyfVKmT8r0SSUHY/+VfQQFKjToMPbfdGveNvW26ePg9fHUbYdY/1C/f1Xqdzp88fHwZRw+mw7b7mXZENPhq4+HL6gH66YfVFZ/lF9rfvr1l1Ben8a3xz551/y1/jncf/IrymLezM9fn9r9tu12u3q7a8bhbns6HD6sP/mx5R9ocahcjxQAAA\u003d\u003d"
+}
