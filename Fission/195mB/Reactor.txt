@@ -2,7 +2,7 @@
   "header": {
     "version": "2.1.0",
     "mc_version": "1.17.1",
-    "name": "Reactor195",
+    "name": "FissionReactor195",
     "author": "new_3",
     "bounding_box": {
       "min_x": 0,
