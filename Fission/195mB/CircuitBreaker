@@ -1,0 +1,92 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "Circuit Breaker",
+    "author": "new_3",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 10,
+      "max_y": 1,
+      "max_z": 6
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "elevatorid:elevator_light_blue"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "mekanism:industrial_alarm"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:lime_stained_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "create:powered_toggle_latch"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "create:pulse_repeater"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 7,
+          "item": {
+            "id": "minecraft:redstone"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "minecraft:repeater"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 36,
+          "item": {
+            "id": "minecraft:smooth_stone_slab"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "minecraft:stone_button"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 40,
+          "item": {
+            "id": "minecraft:white_stained_glass"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/72VS28TMRSFPRnPszwkJECogPgJIHZZwh6xbMti5GTcxKpnHNmehvLr8eMkmaZUdCRKI/WzHfvc4+trpyakIrRlltWEkGc1yYxllpeEfmMdJ6ed6PlSs0s7N51Sdt0Yq3reGMkWNam/a7Xh2gpu3AJ7s+EktWpTkpOt09BSrVa8Jdklk4YTkpLacC2YFL+4dsFIHQP7xu2o7w5Rt2thXTjL3EjbrCQzZoLQ64OQ5m20vhWaH1vfcmMJ7d3XpVNQg13vexu1dUGSj24WZ36WEa0f75X2s3xvytZeLjV33flmcDlpNN/4nj7yk1+ypehXMWJJStFfu6/2qSxJEVyNBsow4NdMz/a0JGH7SBJ6f0mST+X/cvQ4x/ZqdA+CncVgHY8NuXPj7gSkUnp0it7mnTObEv09l/yaWaVFO981GylWa9ss5HCclpPWpWppheqZdLdSD/yOl9qs1bZhWqttnDHFzYvx6fyxfrOWS3ZDkk+HwDHxri/V8ur+Sn68Krl9uR9Wt1Or5PHrdupNOt09NzHLjXVPsuSNZHa5vufR2Z3UP31j3nT8ivXCdHPRt4OxflHDJNPdsQvmKvea74PuXM2GzZR4bw8nIUX38B+QiqQbZagb+kH2f4n7RM4wkoIUzMAcLMAS6yr06/B/RtIkqtAkqmRJVMnBIolqZTIyEX0k8BGYgpQQrIz9HCwCC+8jgY8EPhLvLtttjUTJBJyBKUhJ3HoG5mABlphXoV8HVl5/5ns5WASGfY1SGeKmiJsiboq4KeKm2FeKfQWWYIV5deCJjzs6oqBPoU+hT6FPoU+hT6FPoU+hT6Hv+MTrj44+6GfQz6CfQT8wA3OwAEuwQgnVR6WUgDMwBSmYgTlYgCVYgXXg02DBncaas9Y/2vlCDX1rXB127OeF14nNM78kNs+9C98U/Tlq1jUvDs0zFDrt/b17/lXo5SDshy/u3bni/leQuedNafes8G3z2TkaXb0ybPHDYhCydZd8xdoVt2beDl1304xu6G9gM/tspQoAAA\u003d\u003d"
+}
