@@ -5,7 +5,7 @@
 터빈: Turbine.txt
 
 #### 주의사항
-두 개의 멀티블록을 붙여서 설치해 주세요!
+두 개의 멀티블록을 붙여서 설치해 주세요! (리액터의 가열된 냉각재 포트가 터빈의 터빈 포트와 맞닿아야 함)
 
 # What's this?
 Blueprints of a reactor and a turbine for running water-cooled reactor(195mB/t)
