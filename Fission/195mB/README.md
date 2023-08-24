@@ -1,6 +1,8 @@
 # 설명
 195mB/t의 연소 속도로 가동되는 리액터(수냉)와 터빈 멀티블록 설계도.
 
+Copy-Paste Gadget의 사용 방법 [설명](https://github.com/new-3/optimalMekanismMultiblocks/blob/main/README.md)
+
 리액터: [Reactor.txt](https://github.com/new-3/optimalMekanismMultiblocks/blob/main/Fission/195mB/Reactor.txt)
 터빈: [Turbine.txt](https://github.com/new-3/optimalMekanismMultiblocks/blob/main/Fission/195mB/Turbine.txt)
 
