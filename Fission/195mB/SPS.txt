@@ -1,0 +1,57 @@
+{
+  "header": {
+    "version": "2.1.0",
+    "mc_version": "1.17.1",
+    "name": "SPS",
+    "author": "new_3",
+    "bounding_box": {
+      "min_x": 0,
+      "min_y": 0,
+      "min_z": 0,
+      "max_x": 6,
+      "max_y": 6,
+      "max_z": 6
+    },
+    "material_list": {
+      "root_type": "buildinggadgets:entries",
+      "root_entry": [
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 2,
+          "item": {
+            "id": "minecraft:lime_stained_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 60,
+          "item": {
+            "id": "mekanism:sps_casing"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 3,
+          "item": {
+            "id": "mekanism:sps_port"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 123,
+          "item": {
+            "id": "mekanism:structural_glass"
+          }
+        },
+        {
+          "item_type": "buildinggadgets:simple_item",
+          "count": 1,
+          "item": {
+            "id": "mekanism:supercharged_coil"
+          }
+        }
+      ]
+    }
+  },
+  "body": "H4sIAAAAAAAA/5WVz47TMBCHHc941K24IE4gDrwDt30ItNJedvdSeZu0G5G0Vf4Ay7vxbjjxV9pyQLSq+rOTjOcbZ/rz0rkbp2Uc4tI5Z0sX+iEO1cLpl9hW7l1bfY27um9v+0O/Wse+3m2duGVfdXVs6p9Vl6LcMq8wDS7D35/Ch25cD2MXm9W2iX1/xSIf23pXrbu4GW6buq1W6Wa6UF69ztuLWg77bli65V23P1TdUFf9wllcD/W3yoVNbPrKXbH0h9PSY1pu/RK7bSJc7+vm7xybuJ720I+HhXuzaca6XDX7bXrahao9DK/XpP3vijTt/j8LunFy2PeaLv2arnuXP4IqWhTzr/OooFrk+wHNCxSuQD0qqKKBRHaRMMWhHhVU0QCYXQCmONSjgioaKMTQIvA8KqgG6gkUY5SFCqpowdejguqsaR10QpzzF4T4rIamwDxH0wJ5rsQH4tHCyIsKqkZeNBdR5IyZ00/JhLmigTdn7k8pfoIQSrNjiZ65z+ukr4fbw+3hzvPAPNBaBg/qUUEVDQaPnbdkkXcqwwn7LdQh1CHUcXwVAr/AL/AL+y7wC/wCv8Av8Av8Ar/AL/AL/AK/wH/WqUXOcNzcDKfwK/wKv563kh1byjOfda5W4Vf4FX6FX+FX+BV+hV/hV/gVfoWff1BuZY8KmiHmn0CfB/o8wBvgDex3gDfAG+AN9HmgzwN9HuAMcAY4A31+8U8VVGllY578y/Avw78M/5rvBzSHzP5l+JfhX4Z/Gf41P29oSmz4l+Ffhn8Z/mX4V45DE6jhX4Z/Gf5l+JfhX4Z/Gf5l+JfhX4Z/Gf5l+JbhW4ZvpaPeXqpYVl0aPO/HXdmn5mnjj6fMNQ0fTsPH47DePeZCp+HTafgw15FOpt10Msn93f10/IzDy75zYVd9X31Oh8zZ8bOYu+TT81g3ZToQt7HcVkN/W45t+7o6O6V+AxSH0tehCAAA"
+}
