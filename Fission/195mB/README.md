@@ -6,6 +6,8 @@ Copy-Paste Gadget의 사용 방법 [설명](https://github.com/new-3/optimalMeka
 리액터: [Reactor.txt](https://github.com/new-3/optimalMekanismMultiblocks/blob/main/Fission/195mB/Reactor.txt)
 터빈: [Turbine.txt](https://github.com/new-3/optimalMekanismMultiblocks/blob/main/Fission/195mB/Turbine.txt)
 
+SPS(안티매터 생산): [SPS.txt](https://github.com/new-3/optimalMekanismMultiblocks/blob/main/Fission/195mB/SPS.txt)
+
 #### 주의사항
 두 개의 멀티블록을 붙여서 설치해 주세요! (리액터의 가열된 냉각재 포트가 터빈의 터빈 포트와 맞닿아야 함)
 
