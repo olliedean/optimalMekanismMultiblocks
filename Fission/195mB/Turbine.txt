@@ -4,7 +4,7 @@
     "mc_version": "1.17.1",
     "name": "Turbine195",
     "author": "new_3",
-    "bounag-0-1h82plt61ag-1-1h82plt61ding_box": {
+    "bounding_box": {
       "min_x": 0,
       "min_y": 0,
       "min_z": 0,
